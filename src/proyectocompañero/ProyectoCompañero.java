@@ -6,7 +6,6 @@
 package proyectocompañero;
 
 /**
- *
  * @author dam
  */
 public class ProyectoCompañero {
