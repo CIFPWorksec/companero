@@ -18,6 +18,6 @@ public class ProyectoCompañero {
        System.out.println("hola compañero");
        System.out.println("voy a hacer el primer cambio");
        System.out.println("estoy en programacion");
-    }
+     }
     
 }
